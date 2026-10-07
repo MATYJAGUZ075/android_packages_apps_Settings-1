@@ -18,7 +18,7 @@
     xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
 
     <color name="divider_color">#20ffffff</color>
-    <color name="title_color">@android:color/holo_blue_light</color>
+    <color name="title_color">#FF1428A0</color>
     <color name="setup_wizard_wifi_color_dark">#89ffffff</color>
     <color name="setup_wizard_wifi_color_light">#89000000</color>
 
@@ -36,7 +36,7 @@
     <color name="confirm_device_credential_transparent_black">#60000000</color>
 
     <!-- Accent color that matches the settings launcher icon -->
-    <color name="icon_accent">#ffabffec</color>
+    <color name="icon_accent">#FF1428A0</color>
 
     <!-- Accessibility SUW colors -->
     <color name="material_blue_500">#4285F4</color>
@@ -219,4 +219,7 @@
 
     <!-- Icon tint color for battery usage system icon -->
     <color name="battery_usage_system_icon_color">?android:attr/textColorPrimary</color>
+    <color name="oneui_accent">#FF1428A0</color>
+    <color name="oneui_settings_bg">#FFFFFF</color>
+    <color name="oneui_settings_card_bg">#F5F5F5</color>
 </resources>
